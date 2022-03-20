@@ -1,4 +1,4 @@
-# Exercicios-do-Beecrowd-URI-em-Python
+# Exercicios do Beecrowd (antigo URI Online Judge) em Python
 
 ## Português
 
